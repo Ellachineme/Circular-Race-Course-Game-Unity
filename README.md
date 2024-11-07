@@ -7,6 +7,9 @@ A circular race course game built using Unity and C# as part of a university pro
 - **C#**: Primary programming language used for game logic and gameplay mechanics.
 - **JSON**: Used for configuration management, enabling a player to customize game attributes.
 
+## Project Specification
+You can find the detailed project specification document [here] (\Circular-Race-Course-Game-Unity\Specification_document.pdf").
+
 ## Features
 - Circular race course gameplay with dynamic AI opponents.
 - Customizable game attributes through a JSON configuration file.
