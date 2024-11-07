@@ -8,7 +8,7 @@ A circular race course game built using Unity and C# as part of a university pro
 - **JSON**: Used for configuration management, enabling a player to customize game attributes.
 
 ## Project Specification
-You can find the detailed project specification document [here] (\Circular-Race-Course-Game-Unity\Specification_document.pdf").
+You can find the detailed project specification document [here](\Circular-Race-Course-Game-Unity\Specification_document.pdf").
 
 ## Features
 - Circular race course gameplay with dynamic AI opponents.
