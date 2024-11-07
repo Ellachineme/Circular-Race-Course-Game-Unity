@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TileSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a68ca377192402644bd6bc9ae2a83bb9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 1134d40b2a04bc242b5621f47919139f: -45932219
+    - 1134d40b2a04bc242b5621f47919139f: 703096461
+    - 1134d40b2a04bc242b5621f47919139f: -1517611506
+    - 1134d40b2a04bc242b5621f47919139f: 705815226
+    - 1134d40b2a04bc242b5621f47919139f: 1034635834
+    - 1134d40b2a04bc242b5621f47919139f: 1542511205
+    - 1134d40b2a04bc242b5621f47919139f: 190499988
+    - 1134d40b2a04bc242b5621f47919139f: -2085461225
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -45932219, guid: 1134d40b2a04bc242b5621f47919139f, type: 3}
+  - {fileID: 703096461, guid: 1134d40b2a04bc242b5621f47919139f, type: 3}
+  - {fileID: -1517611506, guid: 1134d40b2a04bc242b5621f47919139f, type: 3}
+  - {fileID: 705815226, guid: 1134d40b2a04bc242b5621f47919139f, type: 3}
+  - {fileID: 1034635834, guid: 1134d40b2a04bc242b5621f47919139f, type: 3}
+  - {fileID: 1542511205, guid: 1134d40b2a04bc242b5621f47919139f, type: 3}
+  - {fileID: 190499988, guid: 1134d40b2a04bc242b5621f47919139f, type: 3}
+  - {fileID: -2085461225, guid: 1134d40b2a04bc242b5621f47919139f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - x128Roads_0
+  - x128Roads_1
+  - x128Roads_2
+  - x128Roads_3
+  - x128Roads_5
+  - x128Roads_6
+  - x128Roads_7
+  - x128Roads_8
+  m_RenderDataMap: {}
+  m_Tag: TileSpriteAtlas
+  m_IsVariant: 0

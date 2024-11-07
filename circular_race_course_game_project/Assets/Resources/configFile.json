@@ -1,0 +1,7 @@
+{
+    "noOfRounds": 3,
+    "noOfCoinsForMoreSpeed": 3,
+    "noOfCoinsLoss": 3,
+    "noOfOilSpills": 1,
+    "speedLossTime": 2
+}

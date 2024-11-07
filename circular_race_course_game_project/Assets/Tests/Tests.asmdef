@@ -1,0 +1,16 @@
+{
+    "name": "Tests",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "references": [
+        "NewAssembly",
+        "Unity.TextMeshPro",
+        "Unity.TextMeshPro.Editor"  
+    ]
+    
+    
+}
